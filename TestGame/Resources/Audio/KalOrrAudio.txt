@@ -1,0 +1,70 @@
++1.        Match Start
+Resources\Audio\KAL\KAL_MYBLOODISBOILING.wav
+Resources\Audio\KAL\KAL_HATHISWILLBEFUN.wav
+Resources\Audio\KAL\KAL_OURWINISCLEAR.wav
+=2.        Win
+Resources\Audio\KAL\KAL_NOHARDFEELINGS.wav
+Resources\Audio\KAL\KAL_HAHAWELLFOUGHT.wav
+Resources\Audio\KAL\KAL_MELTAWAYCANDLEFIGHTERS.wav
+Resources\Audio\KAL\KAL_CANDLESARENTFOREVER.wav
+Resources\Audio\KAL\KAL_YOURWICKSFINISHED.wav
+=3.        Lose
+Resources\Audio\KAL\KAL_SOMEPEOPLELOVEBURN.wav
+Resources\Audio\KAL\KAL_WORTHYFOE.wav
+Resources\Audio\KAL\KAL_ISEETHEFIREINYOUREYES.wav
+=4.        Moving
+Resources\Audio\KAL\KAL_FIRESPREADS.wav
+Resources\Audio\KAL\KAL_FLYINGEMBER.wav
+Resources\Audio\KAL\KAL_FLAMESGROW.wav
+Resources\Audio\KAL\KAL_OLE.wav
+Resources\Audio\KAL\KAL_SISENOR.wav
+=5.        Idle
+Resources\Audio\KAL\KAL_FUELDEPLETING.wav
+Resources\Audio\KAL\KAL_HEATWANES.wav
+Resources\Audio\KAL\KAL_SIGH.wav
+=6.        Taking Damage
+Resources\Audio\KAL\KAL_WRAH.wav
+Resources\Audio\KAL\KAL_UGH.wav
+Resources\Audio\KAL\KAL_TAKINGHEAVYFIRE.wav
+Resources\Audio\KAL\KAL_OVERHEATING.wav
+Resources\Audio\KAL\KAL_BLASTED.wav
+Resources\Audio\KAL\KAL_KHAH.wav
+=7.	RegularProjectile
+Resources\Audio\KAL\KAL_FIREBALL.wav
+Resources\Audio\KAL\KAL_HULA.wav
+Resources\Audio\KAL\KAL_HYAAH.wav
+Resources\Audio\KAL\KAL_SHOOTINGEMBERS.wav
+Resources\Audio\KAL\KAL_TAKETHIS.wav
+Resources\Audio\KAL\KAL_LAUGH.wav
+=8.	SpecialProjectile
+Resources\Audio\KAL\KAL_TAKEONE.wav
+Resources\Audio\KAL\KAL_ANDANOTHER.wav
+Resources\Audio\KAL\KAL_123AND4.wav
+Resources\Audio\KAL\KAL_123AND4SPANISH.wav
+Resources\Audio\KAL\KAL_MELTAWAYCANDLEFIGHTERS.wav
+Resources\Audio\KAL\KAL_METEORSTRIKE.wav
+Resources\Audio\KAL\KAL_SCORCHINGHEAT.wav
+Resources\Audio\KAL\KAL_UNLEASHINGTHEINNERFLAME.wav
+=9.	Falling
+Resources\Audio\KAL\KAL_FIREISBEINGEXTINGUISHED.wav
+Resources\Audio\KAL\KAL_HOWHO-NGUEGH.wav
+Resources\Audio\KAL\KAL_HOWDIDTHISHAPPEN.wav
+Resources\Audio\KAL\KAL_THISCANTBE.wav
+Resources\Audio\KAL\KAL_MYFUELHASRUNOUT.wav
+=10.	Alex
+Resources\Audio\KAL\KAL_IADMIREYOURENTHUSIASMREDO.wav
+=11.	Flint
+Resources\Audio\KAL\KAL_ELNINOLETSMAKETHISAWIN.wav
+Resources\Audio\KAL\KAL_ILAVAYOUALOT2.wav
+=12.	Jack
+Resources\Audio\KAL\KAL_KEEPYOURDISTANCEFRIEND.wav
+Resources\Audio\KAL\KAL_ANUNLIKELYDUO.wav
+=13.	Kal
+Resources\Audio\KAL\KAL_FIGHTWITHMEFRIEND.wav
+Resources\Audio\KAL\KAL_LETSMAKETHISAWINFRIEND.wav
+=14.	Oki
+Resources\Audio\KAL\KAL_FUELMEAIR.wav
+Resources\Audio\KAL\KAL_FIRESPREADREDO.wav
+=15.	Rare
+Resources\Audio\KAL\KAL_LATINOHEAT.wav
+Resources\Audio\KAL\KAL_LATINOHEAT2.wav

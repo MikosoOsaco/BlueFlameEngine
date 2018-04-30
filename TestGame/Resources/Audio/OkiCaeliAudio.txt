@@ -1,0 +1,64 @@
++1.		Match Start
+Resources\Audio\OKI\OKI_BESTOFLUCKTOYOUALL.wav
+Resources\Audio\OKI\OKI_ICANTWAITTOTEST.wav
+Resources\Audio\OKI\OKI_ILOOKFORWARD.wav
+=2.		Win
+Resources\Audio\OKI\OKI_IKNEWIDWINFROMTHESTART.wav
+Resources\Audio\OKI\OKI_MYSKILLSWERESUPERIOR.wav
+Resources\Audio\OKI\OKI_THATWASABREEZE.wav
+=3.		Lose
+Resources\Audio\OKI\OKI_BUTTHEYWERESOBAD.wav
+Resources\Audio\OKI\OKI_MYTEAMATESUCKS.wav
+=4.		Moving
+Resources\Audio\OKI\OKI_PARDONME.wav
+Resources\Audio\OKI\OKI_IMFEELINGLIGHT.wav
+=5.		Idle
+Resources\Audio\OKI\OKI_THEAIRISJUSTRIGHT.wav
+Resources\Audio\OKI\OKI_THEBREEZEFEELSNICEHERE.wav
+=6.		Taking Damage
+Resources\Audio\OKI\OKI_ACKH.wav
+Resources\Audio\OKI\OKI_AHH.wav
+Resources\Audio\OKI\OKI_GAH.wav
+Resources\Audio\OKI\OKI_OW.wav
+Resources\Audio\OKI\OKI_OWH.wav
+Resources\Audio\OKI\OKI_OWW.wav
+Resources\Audio\OKI\OKI_HEYTHATHURT.wav
+Resources\Audio\OKI\OKI_YOULLPAYFORTHAT.wav
+=7.		Regular Attack
+Resources\Audio\OKI\OKI_AIR.wav
+Resources\Audio\OKI\OKI_TAKETHAT.wav
+Resources\Audio\OKI\OKI_HYAH.wav
+=8.		Special Attack
+Resources\Audio\OKI\OKI_UP.wav
+Resources\Audio\OKI\OKI_AIRWALL.wav
+Resources\Audio\OKI\OKI_WIND.wav
+Resources\Audio\OKI\OKI_VINTUS.wav
+Resources\Audio\OKI\OKI_VINTUS2.wav
+Resources\Audio\OKI\OKI_TORNADO.wav
+Resources\Audio\OKI\OKI_TURBINE.wav
+Resources\Audio\OKI\OKI_TURBINE2.wav
+Resources\Audio\OKI\OKI_NOTHINGSTOPSTHEWIND.wav
+Resources\Audio\OKI\OKI_NOTHINGSTOPSTHEWINDFX.wav
+=9.		Falling
+Resources\Audio\OKI\OKI_NOOOOOO.wav
+=10.	Alex
+Resources\Audio\OKI\OKI_YOUREALLYNEEDTOCALMDOWN.wav
+=11.	Flint
+Resources\Audio\OKI\OKI_ARENTYOUYOUNG.wav
+=12.	Jack
+Resources\Audio\OKI\OKI_YOURENOTCOOL.wav
+=13.	Kal
+Resources\Audio\OKI\OKI_CAREFULIMIGHTPUTYOUOUT.wav
+=14.	Oki
+Resources\Audio\OKI\OKI_IMQUICKLIKETHEWIND.wav
+=15.	Rare
+Resources\Audio\OKI\OKI_CHIKA.wav
+Resources\Audio\OKI\OKI_UGKH.wav
+Resources\Audio\OKI\OKI_CRAZYLAUGH.wav
+Resources\Audio\OKI\OKI_GAFAH.wav
+Resources\Audio\OKI\OKI_HAHEHE.wav
+Resources\Audio\OKI\OKI_LAUGH.wav
+Resources\Audio\OKI\OKI_LAUGH2.wav
+Resources\Audio\OKI\OKI_LAUGH3.wav
+Resources\Audio\OKI\OKI_LAUGH4.wav
+Resources\Audio\OKI\OKI_YOURETRASHKID.wav

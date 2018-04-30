@@ -1,0 +1,57 @@
++1.        Match Start
+Resources\Audio\FLINT\FLINT_ANDOFFWEGO.wav
+Resources\Audio\FLINT\FLINT_FINALLYSOMEACTION.wav
+Resources\Audio\FLINT\FLINT_FORGETWINNINGALLSTYLE.wav
+Resources\Audio\FLINT\FLINT_HEREWEGO.wav
+Resources\Audio\FLINT\FLINT_TIMETOSHOWOFFABIT.wav
+=2.        Win
+Resources\Audio\FLINT\FLINT_ONEHECKOFAMATCH.wav
+Resources\Audio\FLINT\FLINT_EVENTHEGROUNDISTREMBLING.wav
+Resources\Audio\FLINT\FLINT_ONEMOREWINFORME.wav
+=3.        Lose
+Resources\Audio\FLINT\FLINT_OHNOTLIKETHIS.wav
+Resources\Audio\FLINT\FLINT_ILOSTNOWAY.wav
+Resources\Audio\FLINT\FLINT_AWWCOMEONREMATCH.wav
+=4.        Moving
+Resources\Audio\FLINT\FLINT_ANDOFFWEGO.wav
+Resources\Audio\FLINT\FLINT_CANTSLOWMEDOWN.wav
+Resources\Audio\FLINT\FLINT_FEELINGGOODTODAY.wav
+Resources\Audio\FLINT\FLINT_OFFWEGO.wav
+Resources\Audio\FLINT\FLINT_HEYLETSGETMOVING.wav
+=5.        Idle
+Resources\Audio\FLINT\FLINT_THISISNTRIGHT.wav
+Resources\Audio\FLINT\FLINT_ICANTSHOWOFFLIKETHIS.wav
+=6.        Taking Damage
+Resources\Audio\FLINT\FLINT_AWWDAMN.wav
+Resources\Audio\FLINT\FLINT_EAHH.wav
+Resources\Audio\FLINT\FLINT_HWAHNO.wav
+Resources\Audio\FLINT\FLINT_OHHOH.wav
+Resources\Audio\FLINT\FLINT_OWH.wav
+Resources\Audio\FLINT\FLINT_PWOH.wav
+Resources\Audio\FLINT\FLINT_TAKINGHEAVYFIRE.wav
+Resources\Audio\FLINT\FLINT_WOH.wav
+=7.	RegularProjectile
+Resources\Audio\FLINT\FLINT_TRYTHISONE.wav
+Resources\Audio\FLINT\FLINT_TAKETHIS.wav
+Resources\Audio\FLINT\FLINT_ANDANOTHER.wav
+=8.	SpecialProjectile
+Resources\Audio\FLINT\FLINT_CONTINENTALDRIFT.wav
+Resources\Audio\FLINT\FLINT_SEISMICSHOVE.wav
+Resources\Audio\FLINT\FLINT_TECTONICBREAK.wav
+=9.	Falling
+Resources\Audio\FLINT\FLINT_WHATNO.wav
+Resources\Audio\FLINT\FLINT_IMESSEDUP.wav
+=10.	Alex
+Resources\Audio\FLINT\FLINT_HEYSPARKYGETSERIOUS.wav
+=11.	Flint
+Resources\Audio\FLINT\FLINT_HALFASGOODLOOK.wav
+Resources\Audio\FLINT\FLINT_THEYSEEMESMILETHEYSMILE.wav
+=12.	Jack
+Resources\Audio\FLINT\FLINT_ITSCOLDMAKEITQUICK.wav
+=13.	Kal
+Resources\Audio\FLINT\FLINT_ALRIGHTTURNUPTHEHEAT.wav
+Resources\Audio\FLINT\FLINT_TURNUPTHEHEAT.wav
+=14.	Oki
+Resources\Audio\FLINT\FLINT_ANOTHERROUNDCRAZYLADY.wav
+=15.	Rare
+Resources\Audio\FLINT\FLINT_ROCKNROLL.wav

@@ -1,0 +1,29 @@
++Settings file for Blue Flame Engine
+++++++++++++++++++++++++++++++++++++
++Fullscreen (1 for true, 0 for false)
+0
++Splitscreen (1 for true, 0 for false)
+1
++Networked Multiplayer. Must be enabled to start in networked mode.
++(1 for true, 0 for false)
+0
++Acting as the server? If false, you will need an IP Address to connect to.
++(1 for true, 0 for false)
+1
++IP Address you're trying to connect to when acting as client
+
++A spectotor mode server will send data to be parsed by a spectator mode client
++Spectator Mode Active? (1 for true, 0 for false)
+0
++Game Resolution
+800
+640
++Use Bloom effects? (1 for true, 0 for false)
+1
++Show FPS counter in game? (1 for true, 0 for false)
+0
++Resolution Scale (goes from 0 to 1)
+1.000000
++Replay System Enabled? (1 for true, 0 for false)
+0
+++++++++++++++++++++++++++++++++++++

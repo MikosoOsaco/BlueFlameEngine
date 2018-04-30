@@ -1,0 +1,53 @@
++1.		Match Start
+Resources\Audio\JACK\JACK_OHOHEREWEGO.wav
+Resources\Audio\JACK\JACK_BRINGITON.wav
+Resources\Audio\JACK\JACK_THISWILLBEACHALLENGE.wav
+=2.		Win
+Resources\Audio\JACK\JACK_ISITGETTINGCOLDINHERE.wav
+Resources\Audio\JACK\JACK_WHATAMATCH.wav
+Resources\Audio\JACK\JACK_THATWASNTHALFBAD.wav
+=3.		Lose
+Resources\Audio\JACK\JACK_YOUCANTWINEMALL.wav
+Resources\Audio\JACK\JACK_WAITFORTHENEXTTIME.wav
+Resources\Audio\JACK\JACK_THATWASAGOODONE.wav
+=4.		Moving
+Resources\Audio\JACK\JACK_AINTMYKINDOFWEATHER.wav
+Resources\Audio\JACK\JACK_DONTMINDIFIDO.wav
+=5.		Idle
+Resources\Audio\JACK\JACK_GONNABEHEREALLDAY.wav
+Resources\Audio\JACK\JACK_ICEAGE.wav
+Resources\Audio\JACK\JACK_ICEAGE2.wav
+=6.		Taking Damage
+Resources\Audio\JACK\JACK_AGH.wav
+Resources\Audio\JACK\JACK_OGH.wav
+Resources\Audio\JACK\JACK_OWH.wav
+Resources\Audio\JACK\JACK_OHHTHATSCOLD.wav
+Resources\Audio\JACK\JACK_OHOTHATWASNTNICE.wav
+Resources\Audio\JACK\JACK_OHTHATSTHESPIRIT.wav
+=7.		Regular Projectile
+Resources\Audio\JACK\JACK_DODGETHIS.wav
+Resources\Audio\JACK\JACK_DONTCATCHACOLD.wav
+Resources\Audio\JACK\JACK_DONTCATCHACOLD2.wav
+Resources\Audio\JACK\JACK_TAKETHIS.wav
+Resources\Audio\JACK\JACK_THISISGONNAHURT.wav
+Resources\Audio\JACK\JACK_THISISGONNAHURTHAHA.wav
+Resources\Audio\JACK\JACK_THISISGONNABECOLD.wav
+Resources\Audio\JACK\JACK_HAVEACOLDONEONME.wav
+=8.		Special Projectile
+Resources\Audio\JACK\JACK_HERESTHEFREEZEOVER.wav
+Resources\Audio\JACK\JACK_ICICLEFLURRY.wav
+Resources\Audio\JACK\JACK_THREETWOONEFREEZE.wav
+=9.		Falling
+Resources\Audio\JACK\JACK_UHUOOUH.wav
+=10.		Alex
+Resources\Audio\JACK\JACK_YOUGOTSPARK.wav
+=11.		Flint
+Resources\Audio\JACK\JACK_BEATEMANDFREEZEEM.wav
+=12.		Jack
+Resources\Audio\JACK\JACK_CANTGETENOUGHOFBLIZZARD.wav
+=13.		Kal
+Resources\Audio\JACK\JACK_OUTOFICEINTOFIRE.wav
+=14.		Oki
+Resources\Audio\JACK\JACK_HERECOMESTHEREALSTORM.wav
+=15.		Rare
+Resources\Audio\JACK\JACK_HAHAA.wav

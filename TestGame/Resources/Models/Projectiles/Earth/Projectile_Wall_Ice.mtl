@@ -1,0 +1,8 @@
+newmtl Projectile_Wall_Ice:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd Earth_Wall/Wall_Projectile_Wall_Ice_initialShadingGroup1_Diffuse.png
+map_Ka Earth_Wall/Wall_Projectile_Wall_Ice_initialShadingGroup1_Specular.png

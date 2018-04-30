@@ -1,0 +1,54 @@
++1.        Match Start
+Resources\Audio\ALEX\ALEX_GIVEITMYALL.wav
+Resources\Audio\ALEX\ALEX_HOPEIPRACTIED.wav
+Resources\Audio\ALEX\ALEX_LETSGO.wav
+Resources\Audio\ALEX\ALEX_LETSGO2.wav
+=2.        Win
+Resources\Audio\ALEX\ALEX_DONTUNDERESTIMATESHOCKYOU.wav
+Resources\Audio\ALEX\ALEX_IWONIWON.wav
+Resources\Audio\ALEX\ALEX_THATWASSOMUCHFUN.wav
+=3.        Lose
+Resources\Audio\ALEX\ALEX_ILLDOBETTERNEXT.wav
+Resources\Audio\ALEX\ALEX_ILLDOBETTERNEXT2.wav
+Resources\Audio\ALEX\ALEX_IWASSOCLOSE.wav
+Resources\Audio\ALEX\ALEX_CANTWAITTRYAGAIN.wav
+=4.        Moving
+Resources\Audio\ALEX\ALEX_QUICK.wav
+=5.        Idle
+Resources\Audio\ALEX\ALEX_WHATAREWEWAITINGFOR.wav
+=6.        Taking Damage
+Resources\Audio\ALEX\ALEX_AH2.wav
+Resources\Audio\ALEX\ALEX_AH3.wav
+Resources\Audio\ALEX\ALEX_HEY.wav
+Resources\Audio\ALEX\ALEX_OHNO.wav
+Resources\Audio\ALEX\ALEX_OUH.wav
+=7.	RegularProjectile
+Resources\Audio\ALEX\ALEX_SHOCK.wav
+Resources\Audio\ALEX\ALEX_STATIC2.wav
+Resources\Audio\ALEX\ALEX_BOLT2.wav
+Resources\Audio\ALEX\ALEX_HEH.wav
+Resources\Audio\ALEX\ALEX_ZAP.wav
+Resources\Audio\ALEX\ALEX_STORM.wav
+=8.	SpecialProjectile
+Resources\Audio\ALEX\ALEX_THUNDER3.wav
+Resources\Audio\ALEX\ALEX_THUNDER.wav
+Resources\Audio\ALEX\ALEX_LIGHTNING2.wav
+Resources\Audio\ALEX\ALEX_ELECTRICITYRULESALL.wav
+Resources\Audio\ALEX\ALEX_ELECTRICBEAM.wav
+=9.	Falling
+Resources\Audio\ALEX\ALEX_OUH.wav
+Resources\Audio\ALEX\ALEX_OHNO.wav
+=10.	Alex
+Resources\Audio\ALEX\ALEX_TODAYSANOTHERGOODDAY2.wav
+Resources\Audio\ALEX\ALEX_LETSSHOCKTHEM2.wav
+=11.	Flint
+Resources\Audio\ALEX\ALEX_HOWDIDYOUMAKEYOURMECH.wav
+Resources\Audio\ALEX\ALEX_DIDYOURDADMAKETHATFORYOU.wav
+=12.	Jack
+Resources\Audio\ALEX\ALEX_ILIKEYOURGOGGLES.wav
+=13.	Kal
+Resources\Audio\ALEX\ALEX_WHATDIDYOUSAY.wav
+=14.	Oki
+Resources\Audio\ALEX\ALEX_DONTGETMADIFYOULOSE.wav
+=15.	Rare
+Resources\Audio\ALEX\ALEX_QUICK.wav

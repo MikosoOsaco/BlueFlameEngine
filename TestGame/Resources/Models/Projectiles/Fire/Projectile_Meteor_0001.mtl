@@ -1,0 +1,8 @@
+newmtl Projectile_Meteor_0001:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd Meteor/Projectile_Meteor_0001_Projectile_Meteor_0001_initialShadingGroup_Diffuse.png
+map_Ks Meteor/Projectile_Meteor_0001_Projectile_Meteor_0001_initialShadingGroup_Specular.png
